@@ -2,7 +2,20 @@
 
 ## 博客系统前端管理中心基本完成！
 
-##### 预览：[Polaris博客管理中心](http://mpolaris.top)
+### 1. 管理中心
 
-> 用户名：mpolaris
-> 密码：12345
+##### 概览：[Polaris博客管理中心](http://mpolaris.top)
+
+> 用户名：mpolaris   密码：12345
+
+> 图片不能展示是因为存储路径为本地Windows，切换到生产环境后项目路径有变化而已。
+
+### 2. 后端接口API
+
+##### 项目地址：[Polaris博客后端项目地址](https://github.com/mp-polaris/polaris-blog-system)
+
+##### 接口文档：[Polaris博客后端Swagger-UI](http://mpolaris.top:8080/swagger-ui.html)
+
+### 3. 前端门户
+
+##### 前端门户UI正在开发中...
